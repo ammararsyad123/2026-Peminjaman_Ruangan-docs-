@@ -14,4 +14,4 @@ Menggunakan Swagger untuk dokumentasi. Endpoint utama:
 - PUT /api/Rooms/{id} (Update status booking)
 
 ## 4. Refleksi
-Selama pengerjaan, tantangan terbesar adalah memastikan sinkronisasi antara database SQL Server dan riwayat di Local Storage berjalan lancar.
+selama Pengerjaan saya merasa sangat bingun mulai dari awal sampai akhir karna ini suatu hal yang baru juga bagi saya semoga dengan adanya tugas ini wawasan dan ilmu saya semakin bertambah .
